@@ -1,0 +1,15 @@
+C:\code\csday3\obj\Debug\net7.0\csday3.csproj.AssemblyReference.cache
+C:\code\csday3\obj\Debug\net7.0\csday3.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\csday3\obj\Debug\net7.0\csday3.AssemblyInfoInputs.cache
+C:\code\csday3\obj\Debug\net7.0\csday3.AssemblyInfo.cs
+C:\code\csday3\obj\Debug\net7.0\csday3.csproj.CoreCompileInputs.cache
+C:\code\csday3\bin\Debug\net7.0\csday3.exe
+C:\code\csday3\bin\Debug\net7.0\csday3.deps.json
+C:\code\csday3\bin\Debug\net7.0\csday3.runtimeconfig.json
+C:\code\csday3\bin\Debug\net7.0\csday3.dll
+C:\code\csday3\bin\Debug\net7.0\csday3.pdb
+C:\code\csday3\obj\Debug\net7.0\csday3.dll
+C:\code\csday3\obj\Debug\net7.0\refint\csday3.dll
+C:\code\csday3\obj\Debug\net7.0\csday3.pdb
+C:\code\csday3\obj\Debug\net7.0\csday3.genruntimeconfig.cache
+C:\code\csday3\obj\Debug\net7.0\ref\csday3.dll
